@@ -29,21 +29,21 @@ I'm following the [Alpha Plus 5.0 DSA course by Apna College](https://www.youtub
   - Majority Element
 
 
-### 🔹 Sorting Algorithms
+ ### 🔹 Sorting Algorithms
 
-#### 📊 Basic Sorting
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
+ #### 📊 Basic Sorting
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
 
   ### 🔹 Arrays (2D)
 
-#### 🔁 2D Array Problems
-- Largest Element in 2D Array
-- Diagonal Sum
-- Spiral Matrix Traversal
-- Staircase Search (Sorted Matrix)
-- More problems will be added soon
+  #### 🔁 2D Array Problems
+  - Largest Element in 2D Array
+  - Diagonal Sum
+  - Spiral Matrix Traversal
+  - Staircase Search (Sorted Matrix)
+  - More problems will be added soon
 
 ## 📁 Folder Structure
 DSA-Java/
@@ -55,9 +55,9 @@ DSA-Java/
 │   └── README.md
 │
 ├── TwoDArrays/
-│   ├── Basics/       
-│   ├── Patterns/     
-│   └── Searching/   
+│   ├── Basics/
+│   ├── Patterns/
+│   └── Searching/
 │
 ├── Sorting/
 │   ├── BubbleSort.java
