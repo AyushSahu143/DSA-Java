@@ -44,6 +44,15 @@ I'm following the [Alpha Plus 5.0 DSA course by Apna College](https://www.youtub
   - Spiral Matrix Traversal
   - Staircase Search (Sorted Matrix)
   - More problems will be added soon
+    
+  ### 🔹 Strings
+
+- Check for Palindrome  
+- Shortest Path from Directions  
+- Capitalize First Letter of Each Word  
+- Compress a String  
+- Count Lowercase Vowels  
+- Check if Two Strings are Anagrams  
 
 ## 📁 Folder Structure
 DSA-Java/
@@ -54,21 +63,24 @@ DSA-Java/
 │   ├── Misc/
 │   └── README.md
 │
-
-
 ├── TwoDArrays/
 │   ├── Basics/
 │   ├── Patterns/
 │   └── Searching/
 │
-
-
 ├── Sorting/
 │   ├── BubbleSort.java
 │   ├── SelectionSort.java
 │   ├── InsertionSort.java
+│   └── README.md
 │
-└── README.md
+├── Strings/
+│   ├── Palindrome.java
+│   ├── ShortestPath.java
+│   ├── UpperCase.java
+│   ├── CompressedString.java
+│   ├── CountLowercaseVowels.java
+│   └── Anagrams.java
 
 ## 💡 How I'm Learning
 - Watching video tutorials 📺
